@@ -1,0 +1,15 @@
+#kind_day{
+    font-size: x-large;
+}
+
+body{
+    background-image: url('https://vieclam.shopdunk.com/wp-content/uploads/2017/05/ngam-hinh-anh-thien-nhien-bau-troi-trong-xanh-tuyet-dep-vo-cung-tuoi-sang-8.jpg');
+}
+
+.jumbotron{
+    opacity: 0.7;
+}
+
+.not_found{
+    margin-top: 20px;
+}
